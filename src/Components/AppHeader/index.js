@@ -22,9 +22,9 @@ function AppHeader() {
     <div className="AppHeader">
       <Image
         width={40}
-        src="https://yt3.ggpht.com/ytc/AMLnZu83ghQ28n1SqADR-RbI2BGYTrqqThAtJbfv9jcq=s176-c-k-c0x00ffffff-no-rj"
+        src="https://static.vecteezy.com/system/resources/previews/020/429/953/original/admin-icon-vector.jpg"
       ></Image>
-      <Typography.Title>Aamir's Dashboard</Typography.Title>
+      <Typography.Title>Heaven's Dashboard</Typography.Title>
       <Space>
         <Badge count={comments.length} dot>
           <MailOutlined

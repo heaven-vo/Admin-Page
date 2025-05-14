@@ -1,6 +1,6 @@
 {
-  "name": "antd-demo",
-  "version": "0.1.0",
+  "name": "Admin Page",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
